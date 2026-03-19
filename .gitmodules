@@ -1,0 +1,9 @@
+[submodule "ios"]
+	path = ios
+	url = https://github.com/spatialwalk/avatar-kit-ios-demo.git
+[submodule "android"]
+	path = android
+	url = https://github.com/spatialwalk/avatar-kit-android-demo.git
+[submodule "web"]
+	path = web
+	url = https://github.com/spatialwalk/avatar-kit-web-demo.git
